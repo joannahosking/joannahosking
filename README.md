@@ -1,3 +1,4 @@
+## Hi, I'm Joanna! 👋
 I'm a freelance web developer in Tucson, AZ. Let's collaborate on a project! 👯
 
 ### Get in touch...
