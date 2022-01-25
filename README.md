@@ -1,5 +1,5 @@
 ## Hi, I'm Joanna! 👋
-I'm a front-end web developer. Let's collaborate on a project! 👯
+I'm a web developer at [Cooperfields](https://cooperfields.co.uk/).
 
 ### Get in touch...
 * Portfolio: [joannahosking.com](https://joannahosking.com/)
